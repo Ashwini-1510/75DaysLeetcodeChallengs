@@ -5,11 +5,9 @@ class Solution {
         int arraysum=0;
 
         for(int i=0;i<n;i++){
-            arraysum = arraysum +nums[i];
+            arraysum = arraysum + nums[i];
         }
         return totalsum-arraysum;
         
     }
 }
-        
-    
