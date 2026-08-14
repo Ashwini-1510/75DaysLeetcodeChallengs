@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
