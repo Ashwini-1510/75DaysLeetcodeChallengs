@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0704-binary-search) |
 ## Bit Manipulation
