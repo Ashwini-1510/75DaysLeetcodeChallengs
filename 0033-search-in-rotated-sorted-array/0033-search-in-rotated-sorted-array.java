@@ -8,15 +8,15 @@ class Solution {
 
             int mid = left + (right - left) / 2;
 
-            // Target found
+            
             if (nums[mid] == target) {
                 return mid;
             }
 
-            // Left side is sorted
+        
             if (nums[left] <= nums[mid]) {
 
-                // Target is present in left sorted part
+        
                 if (target >= nums[left] && target < nums[mid]) {
                     right = mid - 1;
                 } 
@@ -25,10 +25,10 @@ class Solution {
                 }
             }
 
-            // Right side is sorted
+            
             else {
 
-                // Target is present in right sorted part
+                
                 if (target > nums[mid] && target <= nums[right]) {
                     left = mid + 1;
                 } 
