@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0053-maximum-subarray) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0283-move-zeroes) |
