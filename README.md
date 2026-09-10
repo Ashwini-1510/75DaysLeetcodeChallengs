@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0268-missing-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0268-missing-number) |
 ## Math
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ashwini-1510/75DaysLeetcodeChallengs/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
